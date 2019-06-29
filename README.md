@@ -25,5 +25,5 @@ LeetCode Problem's Solutions
 |350|[两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|[C++](./algorithms/cpp/350.两个数组的交集-ii.cpp)|Easy|
 |387|[字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|[C++](./algorithms/cpp/387.字符串中的第一个唯一字符.cpp)|Easy|
 |412|[Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/)|[C++](./algorithms/cpp/412.Fizz-Buzz.cpp)|Easy|
-
+|707|[设计链表](https://leetcode-cn.com/problems/design-linked-list/)|[C++](./algorithms/cpp/707.设计链表.cpp)|Easy|
 
