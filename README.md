@@ -18,6 +18,7 @@ LeetCode Problem's Solutions
 |136|[只出现一次的数字](https://leetcode-cn.com/problems/single-number/)|[C++](./algorithms/cpp/136.只出现一次的数字.cpp)|Easy|
 |141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)|[C++](./algorithms/cpp/141.环形链表.cpp)|Easy|
 |142|[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)|[C++](./algorithms/cpp/142.环形链表-ii.cpp)|Medium|
+|160|[相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|[C++](./algorithms/cpp/160.相交链表.cpp)|Easy|
 |189|[旋转数组](https://leetcode-cn.com/problems/rotate-array/)|[C++](./algorithms/cpp/189.旋转数组.cpp)|Easy|
 |217|[存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)|[C++](./algorithms/cpp/217.存在重复元素.cpp)|Easy|
 |242|[有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)|[C++](./algorithms/cpp/242.有效的字母异位词.cpp)|Easy|
