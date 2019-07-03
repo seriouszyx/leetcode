@@ -9,6 +9,7 @@ LeetCode Problem's Solutions
 |1|[两数之和](https://leetcode-cn.com/problems/two-sum/)|[C++](./algorithms/cpp/1.两数之和.cpp)|Easy|
 |7|[整数反转](https://leetcode-cn.com/problems/reverse-integer/)|[C++](./algorithms/cpp/7.整数反转.cpp)|Easy|
 |15|[三数之和](https://leetcode-cn.com/problems/3sum/)|[C++](./algorithms/cpp/15.三数之和.cpp)|Medium|
+|19|[删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)|[C++](./algorithms/cpp/19.删除链表的倒数第n个节点.cpp)|Medium|
 |26|[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[C++](./algorithms/cpp/26.删除排序数组中的重复项.cpp)|Easy|
 |48|[旋转图像](https://leetcode-cn.com/problems/rotate-image/)|[C++](./algorithms/cpp/48.旋转图像.cpp)|Medium|
 |66|[加一](https://leetcode-cn.com/problems/plus-one/)|[C++](./algorithms/cpp/66.加一.cpp)|Easy|
