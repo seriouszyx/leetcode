@@ -13,6 +13,7 @@ LeetCode Problem's Solutions
 |26|[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[C++](./algorithms/cpp/26.删除排序数组中的重复项.cpp)|Easy|
 |48|[旋转图像](https://leetcode-cn.com/problems/rotate-image/)|[C++](./algorithms/cpp/48.旋转图像.cpp)|Medium|
 |66|[加一](https://leetcode-cn.com/problems/plus-one/)|[C++](./algorithms/cpp/66.加一.cpp)|Easy|
+|69|[x 的平方根](https://leetcode-cn.com/problems/sqrtx/)|[C++](./algorithms/cpp/69.x-的平方根.cpp)|Easy|
 |73|[ 矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/)|[C++](./algorithms/cpp/73.矩阵置零.cpp)|Medium|
 |122|[买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|[C++](./algorithms/cpp/122.买卖股票的最佳时机-ii.cpp)|Easy|
 |125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)|[C++](./algorithms/cpp/125.验证回文串.cpp)|Easy|
