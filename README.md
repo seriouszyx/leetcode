@@ -11,6 +11,7 @@ LeetCode Problem's Solutions
 |15|[三数之和](https://leetcode-cn.com/problems/3sum/)|[C++](./algorithms/cpp/15.三数之和.cpp)|Medium|
 |19|[删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)|[C++](./algorithms/cpp/19.删除链表的倒数第n个节点.cpp)|Medium|
 |26|[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[C++](./algorithms/cpp/26.删除排序数组中的重复项.cpp)|Easy|
+|34|[在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[C++](./algorithms/cpp/34.在排序数组中查找元素的第一个和最后一个位置.cpp)|Medium|
 |35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)|[C++](./algorithms/cpp/35.搜索插入位置.cpp)|Easy|
 |48|[旋转图像](https://leetcode-cn.com/problems/rotate-image/)|[C++](./algorithms/cpp/48.旋转图像.cpp)|Medium|
 |66|[加一](https://leetcode-cn.com/problems/plus-one/)|[C++](./algorithms/cpp/66.加一.cpp)|Easy|
