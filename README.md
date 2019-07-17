@@ -16,7 +16,8 @@ LeetCode Problem's Solutions
 |48|[旋转图像](https://leetcode-cn.com/problems/rotate-image/)|[C++](./algorithms/cpp/48.旋转图像.cpp)|Medium|
 |66|[加一](https://leetcode-cn.com/problems/plus-one/)|[C++](./algorithms/cpp/66.加一.cpp)|Easy|
 |69|[x 的平方根](https://leetcode-cn.com/problems/sqrtx/)|[C++](./algorithms/cpp/69.x-的平方根.cpp)|Easy|
-|73|[ 矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/)|[C++](./algorithms/cpp/73.矩阵置零.cpp)|Medium|
+|73|[矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/)|[C++](./algorithms/cpp/73.矩阵置零.cpp)|Medium|
+|74|[搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/)|[C++](./algorithms/cpp/74.搜索二维矩阵.cpp)|Medium|
 |122|[买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|[C++](./algorithms/cpp/122.买卖股票的最佳时机-ii.cpp)|Easy|
 |125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)|[C++](./algorithms/cpp/125.验证回文串.cpp)|Easy|
 |136|[只出现一次的数字](https://leetcode-cn.com/problems/single-number/)|[C++](./algorithms/cpp/136.只出现一次的数字.cpp)|Easy|
