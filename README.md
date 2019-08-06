@@ -32,6 +32,7 @@ LeetCode Problem's Solutions
 |242|[有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)|[C++](./algorithms/cpp/242.有效的字母异位词.cpp)|Easy|
 |278|[第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)|[C++](./algorithms/cpp/278.第一个错误的版本.cpp)|Easy|
 |283|[移动零](https://leetcode-cn.com/problems/move-zeroes/)|[C++](./algorithms/cpp/283.移动零.cpp)|Easy|
+|287|[寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)|[C++](./algorithms/cpp/287.寻找重复数.cpp)|Medium|
 |326|[3的幂](https://leetcode-cn.com/problems/power-of-three/)|[C++](./algorithms/cpp/326.3-的幂.cpp)|Easy|
 |344|[反转字符串](https://leetcode-cn.com/problems/reverse-string/)|[C++](./algorithms/cpp/344.反转字符串.cpp)|Easy|
 |350|[两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|[C++](./algorithms/cpp/350.两个数组的交集-ii.cpp)|Easy|
