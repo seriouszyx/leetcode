@@ -41,4 +41,4 @@ LeetCode Problem's Solutions
 |387|[字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|[C++](./algorithms/cpp/387.字符串中的第一个唯一字符.cpp)|Easy|
 |412|[Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/)|[C++](./algorithms/cpp/412.Fizz-Buzz.cpp)|Easy|
 |707|[设计链表](https://leetcode-cn.com/problems/design-linked-list/)|[C++](./algorithms/cpp/707.设计链表.cpp)|Easy|
-
+|762|[二进制表示中质数个计算置位](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/)|[C++](./algorithms/cpp/762.二进制表示中质数个计算置位.cpp)|Easy|
