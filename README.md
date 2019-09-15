@@ -29,6 +29,7 @@ LeetCode Problem's Solutions
 |162|[寻找峰值](https://leetcode-cn.com/problems/find-peak-element/)|[C++](./algorithms/cpp/162.寻找峰值.cpp)|Medium|
 |189|[旋转数组](https://leetcode-cn.com/problems/rotate-array/)|[C++](./algorithms/cpp/189.旋转数组.cpp)|Easy|
 |217|[存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)|[C++](./algorithms/cpp/217.存在重复元素.cpp)|Easy|
+|231|[2的幂](https://leetcode-cn.com/problems/power-of-two/)|[C++](./algorithms/cpp/231.2-的幂.cpp)|Easy|
 |242|[有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)|[C++](./algorithms/cpp/242.有效的字母异位词.cpp)|Easy|
 |275|[H指数 II](https://leetcode-cn.com/problems/h-index-ii/)|[C++](./algorithms/cpp/275.h指数-ii.cpp)|Medium|
 |278|[第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)|[C++](./algorithms/cpp/278.第一个错误的版本.cpp)|Easy|
