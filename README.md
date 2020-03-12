@@ -19,6 +19,10 @@ LeetCode Problem's Solutions
 |69|[x 的平方根](https://leetcode-cn.com/problems/sqrtx/)|[C++](./algorithms/cpp/69.x-的平方根.cpp)|Easy|
 |73|[矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/)|[C++](./algorithms/cpp/73.矩阵置零.cpp)|Medium|
 |74|[搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/)|[C++](./algorithms/cpp/74.搜索二维矩阵.cpp)|Medium|
+|98|[验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)|[C++](./algorithms/cpp/98.验证二叉搜索树.cpp)|Medium|
+|100|[相同的树](https://leetcode-cn.com/problems/same-tree/)|[C++](./algorithms/cpp/100.相同的树.cpp)|Easy|
+|101|[对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)|[C++](./algorithms/cpp/101.对称二叉树.cpp)|Easy|
+|104|[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)|[C++](./algorithms/cpp/104.二叉树的最大深度.cpp)|Easy|
 |122|[买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|[C++](./algorithms/cpp/122.买卖股票的最佳时机-ii.cpp)|Easy|
 |125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)|[C++](./algorithms/cpp/125.验证回文串.cpp)|Easy|
 |136|[只出现一次的数字](https://leetcode-cn.com/problems/single-number/)|[C++](./algorithms/cpp/136.只出现一次的数字.cpp)|Easy|
