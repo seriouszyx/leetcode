@@ -21,4 +21,14 @@
 |[P5015 标题统计](https://www.luogu.com.cn/problem/P5015)|[C++](C++/标题统计.cpp)|字符串基础|
 |[P1055 ISBN号码](https://www.luogu.com.cn/problem/P1055)|[C++](C++/ISBN号码.cpp)|字符串基础|
 |[P1308 统计单词数](https://www.luogu.com.cn/problem/P1308)|[C++](C++/统计单词数.cpp)|字符串基础|
+|[P2010 回文日期](https://www.luogu.com.cn/problem/P2010)|[C++](C++/回文日期.cpp)|字符串基础|
+|[P1012 拼数](https://www.luogu.com.cn/problem/P1012)|[C++](C++/拼数.cpp)|字符串基础|
+|[P1028 数的计算](https://www.luogu.com.cn/problem/P1028)|[C++](C++/数的计算.cpp)|函数，递归及递推|
+|[P1036 选数](https://www.luogu.com.cn/problem/P1036)|[C++](C++/选数.cpp)|函数，递归及递推|
+|[P1464 Function](https://www.luogu.com.cn/problem/P1464)|[C++](C++/Function.cpp)|函数，递归及递推，记忆化搜索|
+|[P1464 Function](https://www.luogu.com.cn/problem/P1464)|[C++](C++/Function.cpp)|函数，递归及递推，记忆化搜索|
+|[P5534 【XR-3】等差数列](https://www.luogu.com.cn/problem/P5534)|[C++](C++/【XR-3】等差数列.cpp)|函数，递归及递推|
+|[P1192 台阶问题](https://www.luogu.com.cn/problem/P1192)|[C++](C++/台阶问题.cpp)|dp|
+|[P1025 数的划分](https://www.luogu.com.cn/problem/P1025)|[C++](C++/数的划分.cpp)|dp|
+
 
