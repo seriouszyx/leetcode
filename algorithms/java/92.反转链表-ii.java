@@ -19,10 +19,31 @@
 class Solution {
     ListNode successor = null;
     public ListNode reverseBetween(ListNode head, int left, int right) {
-        if (left == 1)
-            return reverseN(head, right);
-        head.next = reverseBetween(head.next, left - 1, right - 1);
-        return head;
+        // 递归实现
+        // if (left == 1)
+        //     return reverseN(head, right);
+        // head.next = reverseBetween(head.next, left - 1, right - 1);
+        // return head;
+
+        // 迭代实现
+        ListNode dummy = new ListNode(-1);
+        dummy.next = head;
+        ListNode pre = dummy;
+        for (int i = 0; i < left - 1; i++) {
+            pre = pre.next;
+        }
+        ListNode p = pre;
+        int cnt = left;
+        ListNode cur = pre.next, nxt = pre.next;
+        while (cnt++ != right + 1) {
+            nxt = cur.next;
+            cur.next = pre;
+            pre = cur;
+            cur = nxt;
+        }
+        p.next.next = cur;
+        p.next = pre;
+        return dummy.next;
     }
     public ListNode reverseN(ListNode head, int n) {
         if (n == 1) {
