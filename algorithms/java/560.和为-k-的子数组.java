@@ -13,9 +13,9 @@ class Solution {
             preSum[i] = preSum[i - 1] + nums[i - 1];
         }
         int res = 0;
-        for (int i = 1; i <= n; i++) {
-            for (int j = 0; j < i; j++) {
-                if (preSum[i] - preSum[j] == k) res++;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j <= i; j++) {
+                if (preSum[i + 1] - preSum[j] == k) res++;
             }
         }
         return res;
