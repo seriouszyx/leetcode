@@ -7,18 +7,14 @@
 // @lc code=start
 class Solution {
     public int minSubArrayLen(int target, int[] nums) {
-        int n = nums.length;
-        int[] preSum = new int[n + 1];
-        for (int i = 1; i <= n; i++) {
-            preSum[i] = preSum[i - 1] + nums[i - 1];
-        }
+        int left = 0;
         int res = Integer.MAX_VALUE;
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j <= i; j++) {
-                if (preSum[i + 1] - preSum[j] >= target) {
-                    int len = i - j + 1;
-                    if (len < res) res = len;
-                }
+        int sum = 0;
+        for (int right = 0; right < nums.length; right++) {
+            sum += nums[right];
+            while (sum >= target) {
+                res = Math.min(res, right - left + 1);
+                sum -= nums[left++];
             }
         }
         return res == Integer.MAX_VALUE ? 0 : res;
